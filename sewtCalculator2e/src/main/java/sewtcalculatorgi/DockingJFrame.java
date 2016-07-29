@@ -398,6 +398,8 @@ public class DockingJFrame extends javax.swing.JFrame {
         });
         jScrollPane9.setViewportView(jList7);
 
+        
+        
         jLabel20.setText("m²");
 
         jList8.setModel(new javax.swing.AbstractListModel<String>() {
