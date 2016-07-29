@@ -1,0 +1,20 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" transform="matrix(19.810304641723633,0,0,2.500234365463257,-9816.039912879467,-200.77355219051242) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="125.5" x="508.5" stroke-width="0" fill="#000000"/>
+  <polyline stroke-linecap="round" id="svg_2" points="183.5,143.5 183.5,143.5 " stroke-opacity="null" stroke-width="0" stroke="#000" fill="none"/>
+  <text font-weight="bold" stroke="#000" transform="matrix(5.084006309509277,0,0,3.106512058225644,-1509.040331363678,-504.3826074979791) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_4" y="223.212482" x="301.886398" stroke-opacity="null" stroke-width="0" fill="#FABA6F">SUN</text>
+  <text stroke="#000" transform="matrix(1,0,0,1.150058627128601,0,-25.23564068414271) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_5" y="165.5" x="390.5" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text font-weight="bold" stroke="#000" transform="matrix(3.829855748903147,0,0,2.896257021152887,-1147.658007132565,-262.707232686808) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="20" id="svg_6" y="156.03507" x="362.026861" stroke-opacity="null" stroke-width="0" fill="#B8D078">ENERGY</text>
+  <path stroke="#000" style="vector-effect: non-scaling-stroke;" id="svg_10" d="m46.31416,130.47494z" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#B8D078"/>
+  <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="12" id="svg_12" y="221.5" x="283.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#FABA6F"/>
+ </g>
+</svg>
